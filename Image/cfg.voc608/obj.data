@@ -1,0 +1,5 @@
+classes= 80
+train  = /home/jdwei/Desktop/AI_idfy/Image/cfg.voc608/train.txt
+valid  = /home/jdwei/Desktop/AI_idfy/Image/cfg.voc608/test.txt
+names = /home/jdwei/Desktop/AI_idfy/Image/cfg.voc608/obj.names
+backup = /home/jdwei/Desktop/AI_idfy/Image/cfg.voc608/weights/

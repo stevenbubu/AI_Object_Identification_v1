@@ -1,0 +1,2 @@
+mouse: 0.96
+keyboard: 0.98
