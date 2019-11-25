@@ -1,0 +1,131 @@
+
+2019-11-25 16:06:33.575953
+['Pen']
+2019-11-25 16:06:58.763631
+['Pen', 'Ball pen']
+2019-11-25 16:07:04.781131
+['Pen']
+2019-11-25 16:07:14.348411
+['Pen']
+2019-11-25 16:07:35.955648
+['Pen', 'Ball pen']
+2019-11-25 16:08:23.398182
+['Scissors']
+2019-11-25 16:08:34.829596
+['Orange', 'Finger']
+2019-11-25 16:08:50.400478
+[]
+2019-11-25 16:09:02.456471
+['Finger']
+2019-11-25 16:09:15.577112
+[]
+2019-11-25 16:09:40.828475
+['Gadget', 'Mobile phone', 'Communication Device', 'Smartphone', 'Portable communications device', 'Electronic device', 'Technology', 'Feature phone', 'Finger', 'Electronics']
+2019-11-25 16:09:51.810968
+['Gadget', 'Mobile phone', 'Communication Device', 'Portable communications device', 'Smartphone', 'Feature phone', 'Electronic device', 'Technology', 'Electronics', 'Finger']
+2019-11-25 16:10:06.076347
+['Finger', 'Electronics', 'Hand']
+2019-11-25 16:10:24.805284
+['Finger', 'Hand']
+2019-11-25 16:10:49.268112
+['Yellow', 'Finger']
+2019-11-25 16:10:59.650805
+['Finger']
+2019-11-25 16:11:13.289188
+[]
+2019-11-25 16:11:19.139705
+['Lighting', 'Candle']
+2019-11-25 16:11:28.834273
+['Lighting']
+2019-11-25 16:11:49.920039
+['Blue', 'Pencil']
+2019-11-25 16:12:07.975721
+['Product', 'Finger', 'Skin']
+2019-11-25 16:12:22.533156
+['Water']
+2019-11-25 16:12:28.321654
+[]
+2019-11-25 16:12:34.237671
+[]
+2019-11-25 16:12:43.921303
+[]
+2019-11-25 16:13:10.065858
+[]
+2019-11-25 16:13:23.405568
+['Finger', 'Yellow']
+2019-11-25 16:13:39.795717
+[]
+2019-11-25 16:13:45.989836
+['Drinkware']
+2019-11-25 16:13:58.208556
+[]
+2019-11-25 16:14:03.945615
+['Mug']
+2019-11-25 16:14:19.903300
+['White']
+2019-11-25 16:14:35.941794
+[]
+2019-11-25 16:14:41.966086
+[]
+2019-11-25 16:14:48.033390
+['Product']
+2019-11-25 16:15:11.978683
+['White', 'Paper', 'Wall']
+2019-11-25 16:15:34.824639
+['Wire', 'Cable', 'Electronic device', 'Technology', 'Electronics accessory']
+2019-11-25 16:15:57.110094
+[]
+2019-11-25 16:16:02.801240
+['Gadget', 'Electronic device', 'Technology']
+2019-11-25 16:16:22.671659
+['Corded phone', 'Technology', 'Electronic device']
+2019-11-25 16:16:57.548254
+[]
+2019-11-25 16:17:03.604137
+[]
+2019-11-25 16:17:37.143176
+['Ceiling', 'Wall']
+2019-11-25 16:17:52.812544
+[]
+2019-11-25 16:17:58.734051
+['Finger']
+2019-11-25 16:18:17.905919
+['Headphones', 'Gadget', 'Headset', 'Audio equipment', 'Electronic device', 'Technology', 'Ear']
+2019-11-25 16:18:58.395689
+['Finger', 'Text', 'Hand', 'Pink']
+2019-11-25 16:19:16.290156
+['Finger', 'Text', 'Pink', 'Hand']
+2019-11-25 16:19:38.285202
+['Finger', 'Wall', 'Hand']
+2019-11-25 16:19:43.399189
+['Wall', 'Finger']
+2019-11-25 16:19:50.949867
+['Wallet']
+2019-11-25 16:20:03.068206
+['Wallet']
+2019-11-25 16:20:22.993681
+['Wall', 'Finger']
+2019-11-25 16:20:38.334257
+[]
+2019-11-25 16:20:48.764662
+[]
+2019-11-25 16:21:21.532965
+['Clothing']
+2019-11-25 16:21:46.873390
+['Cap']
+2019-11-25 16:22:02.447855
+['Water', 'Product', 'Water bottle', 'Bottle', 'Violet', 'Plastic bottle', 'Glass', 'Purple']
+2019-11-25 16:22:16.771364
+['Plastic bottle', 'Bottle', 'Water', 'Water bottle', 'Bottled water', 'Product', 'Distilled water', 'Drinking water', 'Liquid', 'Mineral water']
+2019-11-25 16:22:38.365142
+[]
+2019-11-25 16:22:49.083357
+['Pink', 'Red']
+2019-11-25 16:23:04.812302
+['Product', 'Soap dispenser']
+2019-11-25 16:23:22.700143
+['Product']
+2019-11-25 16:28:24.015839
+['Atmospheric phenomenon', 'Ceiling', 'Wall', 'Sky']
+2019-11-25 16:32:56.411786
+['Atmospheric phenomenon', 'Ceiling', 'Wall', 'Sky', 'Water']
