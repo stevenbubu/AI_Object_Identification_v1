@@ -1,0 +1,3 @@
+
+2020-01-05 23:00:59.760748
+['Router', 'Electronics', 'Technology', 'Electronic device']

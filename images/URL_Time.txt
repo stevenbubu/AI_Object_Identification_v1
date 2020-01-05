@@ -1,0 +1,5 @@
+
+2020-01-05 22:36:24.698608
+['Finger', 'Nail', 'Hand']
+2020-01-05 22:36:46.332060
+['Computer keyboard', 'Electronic device', 'Space bar', 'Technology', 'Input device', 'Numeric keypad', 'Computer component']

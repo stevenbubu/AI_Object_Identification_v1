@@ -1,0 +1,13 @@
+numpy==1.16.0
+opencv-python==3.4.5.20
+pyautogui
+wget
+pandas
+matplotlib
+tensorflow-gpu==1.14.0
+pafy
+youtube-dl
+python-vlc
+google-cloud-vision
+ffmpeg-python
+nvidia-ml-py3
