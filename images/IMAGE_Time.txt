@@ -1,3 +1,0 @@
-
-2020-01-05 21:41:34.419451
-['Adapter', 'Electronic device', 'Technology', 'Electronics', 'Cable']
